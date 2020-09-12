@@ -1,0 +1,52 @@
+#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-
+Language                                  : Cpp
+Standard                                  : Auto
+#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-
+AccessModifierOffset                      : -4
+AlignTrailingComments                     : true
+AlignOperands                             : true
+AlignAfterOpenBracket                     : Align
+AlignConsecutiveDeclarations              : false
+AlignConsecutiveAssignments               : true
+AllowShortBlocksOnASingleLine             : false
+AllowShortFunctionsOnASingleLine          : false
+AllowShortIfStatementsOnASingleLine       : false
+AllowShortLoopsOnASingleLine              : false
+BreakBeforeBraces                         : Allman
+BraceWrapping:
+    AfterCaseLabel                        : true
+    AfterClass                            : true
+    AfterEnum                             : true
+    AfterFunction                         : true
+    AfterStruct                           : true
+    AfterNamespace                        : true
+    AfterUnion                            : true
+    AfterExternBlock                      : true
+    AfterControlStatement                 : Always
+    BeforeElse                            : true
+    SplitEmptyRecord                      : true
+    SplitEmptyFunction                    : true
+BreakBeforeTernaryOperators               : false
+BreakConstructorInitializersBeforeComma   : true
+ColumnLimit                               : 80
+Cpp11BracedListStyle                      : true
+DerivePointerAlignment                    : true
+DerivePointerBinding                      : false
+IndentWidth                               : 4
+KeepEmptyLinesAtTheStartOfBlocks          : true
+MaxEmptyLinesToKeep                       : 2
+NamespaceIndentation                      : All
+PointerBindsToType                        : true
+SpacesBeforeTrailingComments              : 1
+SpacesInAngles                            : false
+SpacesInSquareBrackets                    : false
+TabWidth                                  : 4
+IndentCaseLabels                          : true
+SpaceBeforeAssignmentOperators            : true
+SpaceBeforeInheritanceColon               : true
+SpaceBeforeParens                         : Never
+AlwaysBreakAfterDefinitionReturnType      : All
+
+
+#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-
+#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-
