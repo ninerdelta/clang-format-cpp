@@ -2,6 +2,7 @@
 Language                                  : Cpp
 Standard                                  : Auto
 #-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-
+UseTab                                    : Never
 AccessModifierOffset                      : -4
 AlignTrailingComments                     : true
 AlignOperands                             : true
